@@ -1,6 +1,6 @@
 package gitDemo1.project;
 
-public class GitDemo {
+public class GitDemo2 {
 
 	public static void main(String[] args) {
 		boolean motion = false;
@@ -8,7 +8,7 @@ public class GitDemo {
 		if (motion == true) {
 			System.out.println("Stop!");
 		} else {
-			System.out.println("Move!");
+			
 		}
 
 	}
