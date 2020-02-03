@@ -1,14 +1,14 @@
 package gitDemo1.project;
 
-public class GitDemo {
+public class GitDemo2 {
 
 	public static void main(String[] args) {
-		boolean motion = false;
+		boolean rest = true;
 		
-		if (motion == true) {
-			System.out.println("Stop!");
-		} else {
+		if (rest == true) {
 			System.out.println("Move!");
+		} else {
+			System.out.println("Stop!");
 		}
 
 	}
