@@ -11,6 +11,7 @@ public class GitDemo {
 			System.out.println("Move!");
 		}
 		System.out.println("Change_2");
+		System.out.println("Change_3");
 
 	}
 
