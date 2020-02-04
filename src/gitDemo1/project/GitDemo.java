@@ -10,6 +10,7 @@ public class GitDemo {
 		} else {
 			System.out.println("Move!");
 		}
+		System.out.println("change_1");
 
 	}
 
