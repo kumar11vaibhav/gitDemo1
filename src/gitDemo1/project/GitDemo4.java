@@ -6,7 +6,7 @@ public class GitDemo4 {
 		boolean rest = true;
 		
 		if (rest == true) {
-			System.out.println("Moving1");
+			System.out.println("Moving3");
 		} else {
 			System.out.println("Stop!");
 		}
