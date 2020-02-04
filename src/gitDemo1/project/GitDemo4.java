@@ -6,10 +6,12 @@ public class GitDemo4 {
 		boolean rest = true;
 		
 		if (rest == true) {
-			System.out.println("Move!");
+			System.out.println("Moving1");
 		} else {
 			System.out.println("Stop!");
 		}
+
+               // THIS IS A COMMENT
 
 	}
 
